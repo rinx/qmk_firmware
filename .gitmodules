@@ -13,3 +13,6 @@
 [submodule "keyboards/ergodox/keymaps/rinx"]
 	path = keyboards/ergodox/keymaps/rinx
 	url = git@github.com:rinx/qmk_firmware_ergodox_rinx.git
+[submodule "keyboards/lets_split/keymaps/rinx"]
+	path = keyboards/lets_split/keymaps/rinx
+	url = git@github.com:rinx/qmk_firmware_letssplit_rinx.git
