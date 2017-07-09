@@ -10,3 +10,6 @@
 [submodule "lib/googletest"]
 	path = lib/googletest
 	url = https://github.com/google/googletest
+[submodule "keyboards/ergodox/keymaps/rinx"]
+	path = keyboards/ergodox/keymaps/rinx
+	url = git@github.com:rinx/qmk_firmware_ergodox_rinx.git
