@@ -16,3 +16,6 @@
 [submodule "keyboards/lets_split/keymaps/rinx"]
 	path = keyboards/lets_split/keymaps/rinx
 	url = git@github.com:rinx/qmk_firmware_letssplit_rinx.git
+[submodule "keyboards/gherkin/keymaps/rinx"]
+	path = keyboards/gherkin/keymaps/rinx
+	url = git@github.com:rinx/qmk_firmware_gherkin_rinx.git
