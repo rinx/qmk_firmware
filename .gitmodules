@@ -19,3 +19,6 @@
 [submodule "keyboards/gherkin/keymaps/rinx"]
 	path = keyboards/gherkin/keymaps/rinx
 	url = git@github.com:rinx/qmk_firmware_gherkin_rinx.git
+[submodule "keyboards/ergodox_ez/keymaps/rinx"]
+	path = keyboards/ergodox_ez/keymaps/rinx
+	url = git@github.com:rinx/qmk_firmware_ergodox_rinx.git
