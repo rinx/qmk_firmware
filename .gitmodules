@@ -26,6 +26,6 @@
 [submodule "keyboards/iris/keymaps/rinx"]
 	path = keyboards/iris/keymaps/rinx
 	url = git@github.com:rinx/qmk_firmware_iris_rinx.git
-[submodule "keyboards/keyboards/helix/rev2/keymaps/rinx"]
+[submodule "keyboards/helix/rev2/keymaps/rinx"]
 	path = keyboards/helix/rev2/keymaps/rinx
 	url = git@github.com:rinx/qmk_firmware_helix_rinx.git
